@@ -1,0 +1,10 @@
+.menubar{
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+.nav-link  {
+    font-size:  25px;
+    margin-left: 20px;
+   
+}

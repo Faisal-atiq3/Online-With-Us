@@ -1,0 +1,60 @@
+
+    [
+        {
+        "name": " Graphics Design",
+        "instractor": "Jaysen Batchelor",
+        "course_hour":"65 Days",
+        "photo": "https://static.skillshare.com/uploads/video/thumbnails/3ccfb0086a3a7b609c905750075bd1cf/448-252",
+        "price":3500
+        },
+        {
+        "name": "Web Development",
+        "instractor": "NIkolay Naydenov",
+        "course_hour":"90 Days",
+        "photo": "https://wallpaperaccess.com/full/1657894.jpg",
+        "price":4500
+        },
+        {
+        "name": "Marketing",
+        "instractor": "Lindsay Marsh",
+        "course_hour":"55 Days",
+        "photo": "https://thumbs.dreamstime.com/b/digital-marketing-concept-image-business-man-presenting-different-tools-modern-marketers-modern-digital-marketing-concepts-135508384.jpg",
+        "price":7500
+        },
+        {
+        "name": "IT and Software",
+        "instractor": "Daniel Walter Scott",
+        "course_hour":"75 Days",
+        "photo": "https://thumbs.dreamstime.com/b/software-development-data-digital-programs-system-technology-concept-software-development-data-digital-programs-system-technology-114631832.jpg",
+        "price":5000
+        },
+        {
+        "name": "Personal Development",
+        "instractor": "Jaysen Batchelor",
+        "course_hour":"85 Days",
+        "photo": "https://leadgrowdevelop.com/wp-content/uploads/2015/12/personal-development-management.png",
+        "price":9500
+        },
+        {
+        "name": "Buiness",
+        "instractor": "Martin Perhiniak",
+        "course_hour":"45 Days",
+        "photo": "https://www.learnworlds.com/app/uploads/2019/05/online-course-business.jpeg",
+        "price":8000
+        },
+        {
+        "name": "Photography",
+        "instractor": "Jaysen Batchelor",
+        "course_hour":"5 Days",
+        "photo": "https://i.ytimg.com/vi/ujaCbzLwuB8/maxresdefault.jpg",
+        "price":6500
+        },
+        {
+        "name": "Music",
+        "instractor": "Louay Zambarakji",
+        "course_hour":"35 Days",
+        "photo": "https://thumbs.dreamstime.com/b/music-education-course-young-performer-playing-professional-equipment-vocal-solfeggio-class-vector-illustration-198933793.jpg",
+        "price":2500
+        }
+        
+    ]
